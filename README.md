@@ -15,6 +15,11 @@ $config['default_host'] = array(
 	'ssl://imap.mail.yahoo.com' => 'Yahoo',
 );
 
+# Install
+To install this plugin just add his name 'rc_other_server' to the $config['plugins'] array in config.inc.php :
+
+$config['plugins'] = array('rc_other_server', ...);
+
 
 
 # Screenshot
