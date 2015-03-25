@@ -16,9 +16,9 @@ $config['default_host'] = array(
 );
 
 # Install
-To install this plugin just add his name 'rc_other_server' to the $config['plugins'] array in config.inc.php :
+To install this plugin just add his name 'other_server' to the $config['plugins'] array in config.inc.php :
 
-$config['plugins'] = array('rc_other_server', ...);
+$config['plugins'] = array('other_server', ...);
 
 
 
