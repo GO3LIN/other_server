@@ -2,7 +2,7 @@
 	"name": "GO3LIN/other_server",
 	"type": "roundcube-plugin",
 	"description": "Plugin that gives to user the possibility to set custom imap server info at login.",
-	"keywords": ["imap","custom","server","port","ssl","protocol"],
+	"keywords": ["imap","custom","server","login"],
 	"license": "GNU GPLv3+",
 	"version": "0.1",
 	"authors": [
