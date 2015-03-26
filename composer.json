@@ -4,7 +4,7 @@
 	"description": "Plugin that gives to user the possibility to set custom imap server info at login.",
 	"keywords": ["imap","custom","server","login"],
 	"license": "GNU GPLv3+",
-	"version": "0.1",
+	"version": "1.0",
 	"authors": [
 	{
 		"name": "GoblinProg",
