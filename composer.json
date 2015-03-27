@@ -1,5 +1,5 @@
 {
-	"name": "GO3LIN/other_server",
+	"name": "go3lin/other_server",
 	"type": "roundcube-plugin",
 	"description": "Plugin that gives to user the possibility to set custom imap server info at login.",
 	"keywords": ["imap","custom","server","login"],
@@ -9,7 +9,7 @@
 	{
 		"name": "GoblinProg",
 		"email": "goblinprog@gmail.com",
-		"homepage":"http://github.com/GO3LIN/other_server",
+		"homepage":"http://github.com/go3lin/other_server",
 		"role": "Developer"
 	}
 	],
